@@ -2,7 +2,7 @@
   Blink01
 
   Turns an LED on for one second, then off for one second, repeatedly.
-  Without delay(), an alternative blink is given to run in the same feature of
+  Not using delay(), an alternative blink is given to run in the same feature of
   Arduino basic example Blink, http://www.arduino.cc/en/Tutorial/Blink.
 
   Most Arduinos have an on-board LED you can control. On the UNO, MEGA and ZERO
