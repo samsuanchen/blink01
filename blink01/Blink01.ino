@@ -48,7 +48,7 @@ void loop() {
 
     // next time and level to change
     timeChangeLevel += changLevel ? periodHIGH : periodLOW;
-    changLevel = HIGH - changLevel;
+    changLevel = changLevel ? LOW : HIGH;
     
   }
 }
