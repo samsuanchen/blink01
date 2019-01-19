@@ -32,5 +32,5 @@ So,
 In loop(), the code waits until timeChangeLevel to get into if statement to
 
     1. set changLevel to LED pin level.
-    2. toggle changLevel
-    3. update timeChangeLevel
+    2. update timeChangeLevel
+    3. toggle changLevel
